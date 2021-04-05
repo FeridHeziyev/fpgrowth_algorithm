@@ -1,4 +1,4 @@
-My implementation of FpGrowth algorithm in python.
+My implementation of FpGrowth algorithm in python. I did it my way
 
 Implementation is given below:
   
